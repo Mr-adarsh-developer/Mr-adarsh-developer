@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Mr-adarsh-developer
-- <br>
-
 - 🌱 I’m currently learning pyhton , Mern
 
 <!---
